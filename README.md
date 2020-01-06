@@ -11,7 +11,7 @@ Various analyses can be done to understand risks associated with each individual
 
 Note:- More analyses will be added soon to include CAPM, bankruptcy risk, as well as portfolio construction. Other aspects such as profitability, liquidity, and other performance measures will be included soon.
 
-The end goal is to deploy a webapp on Heroku with visualizations that various components of the analysis.
+The end goal is to deploy a webapp on Heroku with visualizations of various components in the analysis.
 
 
 ### Requirements:
